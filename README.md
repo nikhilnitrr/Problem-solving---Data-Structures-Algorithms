@@ -6,9 +6,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 <!---LeetCode Topics End-->
