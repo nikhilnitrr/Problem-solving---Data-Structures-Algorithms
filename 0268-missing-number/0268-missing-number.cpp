@@ -7,24 +7,18 @@ public:
         int i = 0;
         while(i<n)
         {
-            if(i==arr[i])
+            int correct = arr[i];
+            if(correct == n)
             {
                 i++;
             }
-            else if(arr[i]==n)
+            else if(arr[i]!=arr[correct])
             {
-                i++;
+                swap(arr[i], arr[correct]);
             }
             else
             {
-                while(arr[i]!=i)
-                {
-                    if(arr[i]==n)
-                    {
-                        break;
-                    }
-                    swap(arr[i], arr[arr[i]]);
-                }
+                i++;
             }
         }
         int ans = -1;
