@@ -19,11 +19,11 @@ public:
             {
                 while(arr[i]!=i)
                 {
-                    swap(arr[i], arr[arr[i]]);
                     if(arr[i]==n)
                     {
                         break;
                     }
+                    swap(arr[i], arr[arr[i]]);
                 }
             }
         }
