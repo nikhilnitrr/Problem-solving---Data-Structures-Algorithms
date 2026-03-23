@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 ## Sliding Window
@@ -20,4 +21,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
