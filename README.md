@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0097-interleaving-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0097-interleaving-string/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -115,4 +116,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0043-multiply-strings/) | Medium |
+| [0097-interleaving-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0097-interleaving-string/) | Medium |
 <!---LeetCode Topics End-->
