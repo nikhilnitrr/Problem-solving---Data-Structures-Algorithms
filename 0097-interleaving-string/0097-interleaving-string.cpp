@@ -1,31 +1,31 @@
 #include<bits/stdc++.h>
-int dp[101][101][201];
+int dp[101][101];
 
 class Solution 
 {
 public:
 
-    bool solve(int i, string s1, int j, string s2, int k, string s3, int n, int m, int l)
+    bool solve(int i, string s1, int j, string s2, string s3, int n, int m, int l)
     {
-        if(dp[i][j][k]!=-1)
+        if(dp[i][j]!=-1)
         {
-            return dp[i][j][k];
+            return dp[i][j];
         }
-        if(i==n && j==m && k==l)
+        if(i==n && j==m && i+j==l)
         {
             return true;
         }
-        if(s1[i] == s3[k] && s2[j]!=s3[k])
+        if(s1[i] == s3[i+j] && s2[j]!=s3[i+j])
         {
-            return dp[i][j][k] = solve(i+1, s1, j, s2, k+1, s3, n, m, l);
+            return dp[i][j] = solve(i+1, s1, j, s2, s3, n, m, l);
         }
-        else if(s1[i]!=s3[k] && s2[j]==s3[k])
+        else if(s1[i]!=s3[i+j] && s2[j]==s3[i+j])
         {
-            return dp[i][j][k] = solve(i, s1, j+1, s2, k+1, s3, n, m, l);
+            return dp[i][j] = solve(i, s1, j+1, s2, s3, n, m, l);
         }
-        else if(s1[i]==s3[k] && s2[j]==s3[k])
+        else if(s1[i]==s3[i+j] && s2[j]==s3[i+j])
         {
-            return dp[i][j][k] = (solve(i+1, s1, j, s2, k+1, s3, n, m, l) || solve(i, s1, j+1, s2, k+1, s3, n, m, l));
+            return dp[i][j] = (solve(i+1, s1, j, s2, s3, n, m, l) || solve(i, s1, j+1, s2, s3, n, m, l));
         }
         return false;
     }
@@ -42,6 +42,6 @@ public:
         {
             return false;
         }
-        return solve(0, s1, 0, s2, 0, s3, n, m, l);
+        return solve(0, s1, 0, s2, s3, n, m, l);
     }
 };
