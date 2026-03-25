@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-int dp[201][201][201];
+int dp[101][101][201];
 
 class Solution 
 {
