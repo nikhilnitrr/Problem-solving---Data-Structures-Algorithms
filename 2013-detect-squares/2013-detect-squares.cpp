@@ -4,7 +4,7 @@ public:
 
     bool is_diagonal(vector<int>&first, vector<int>&second)
     {
-        if(abs(first[0] - second[0]) == abs(first[1] - second[1]) && first!=second)
+        if(abs(first[0] - second[0]) == abs(first[1] - second[1]) && first!=second) // Imp. don't consider same point for diagonal
         {
             return true;
         }
