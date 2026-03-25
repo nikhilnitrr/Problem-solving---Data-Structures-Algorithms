@@ -10,7 +10,7 @@ public:
         }
         if(i>=n)
         {
-            return 0;
+            return dp[{i, holding}] = 0;
         }
         int max_profit = INT_MIN;
         if(holding)
