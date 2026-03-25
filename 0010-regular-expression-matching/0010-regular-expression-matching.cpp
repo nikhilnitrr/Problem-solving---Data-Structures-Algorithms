@@ -1,8 +1,13 @@
+// Here, in many scenarios we are waiting at same position in pattern. So, for the base case condition
+// we should check exhaustion of pattern first and if it's exhausted then check for text.
+
+#include<bits/stdc++.h>
+
+int dp[21][21];
+
 class Solution 
 {
 public:
-
-    int dp[21][21];
 
     bool solve(int i, int j, int n, int m, string text, string pattern)
     {
@@ -10,6 +15,7 @@ public:
         {
             return dp[i][j];
         }
+        // Order is very important
         if(j >= m)
         {
             return dp[i][j] = (i >= n);
