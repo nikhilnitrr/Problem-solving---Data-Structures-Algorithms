@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
