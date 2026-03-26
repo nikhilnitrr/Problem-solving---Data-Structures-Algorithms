@@ -14,36 +14,31 @@ class Solution
 {
 public:
 
-    void solve(TreeNode* root, ll target_sum, int &cnt)
+    void solve(TreeNode* root, int target_sum, ll curr_sum, unordered_map<ll, int>um, int &cnt)
     {
         if(root == NULL)
         {
             return;
         }
-        target_sum -= (ll)root->val;
-        if(target_sum == 0)
+        curr_sum+=(ll)root->val;
+        if(curr_sum == target_sum)
         {
             cnt++;
         }
-        solve(root->left, target_sum, cnt);
-        solve(root->right, target_sum, cnt);
-    }
-
-    void inorder(TreeNode* root, int target_sum, int &cnt)
-    {
-        if(root == NULL)
+        if(um.find(curr_sum-target_sum)!=um.end())
         {
-            return;
+            cnt+=(um[curr_sum-target_sum]);
         }
-        inorder(root->left, target_sum, cnt);
-        solve(root, target_sum, cnt);
-        inorder(root->right, target_sum, cnt);
+        um[curr_sum]++;
+        solve(root->left, target_sum, curr_sum, um, cnt);
+        solve(root->right, target_sum, curr_sum, um, cnt);
     }
 
     int pathSum(TreeNode* root, int target_sum) 
     {
+        unordered_map<ll, int>um;
         int cnt = 0;
-        inorder(root, target_sum, cnt);
+        solve(root, target_sum, 0, um, cnt);
         return cnt;
     }
 };
