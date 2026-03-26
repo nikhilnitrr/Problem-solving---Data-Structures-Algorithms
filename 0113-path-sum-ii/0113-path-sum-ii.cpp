@@ -14,27 +14,27 @@ class Solution
 public:
 
 
-    void solve(TreeNode* root, int target_sum, int curr_sum, vector<int>path, vector<vector<int>>&result)
+    void solve(TreeNode* root, int target_sum, vector<int>path, vector<vector<int>>&result)
     {
         if(root == NULL)
         {
             return;
         }
-        curr_sum+=root->val;
+        target_sum-=root->val;
         path.push_back(root->val);
-        if(curr_sum == target_sum && root->left==NULL && root->right==NULL)
+        if(target_sum == 0 && root->left==NULL && root->right==NULL)
         {
             result.push_back(path);
         }
-        solve(root->left, target_sum, curr_sum, path, result);
-        solve(root->right, target_sum, curr_sum, path, result);
+        solve(root->left, target_sum, path, result);
+        solve(root->right, target_sum, path, result);
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int target_sum) 
     {
         vector<vector<int>>result;
         vector<int>path;
-        solve(root, target_sum, 0, path, result);
+        solve(root, target_sum, path, result);
         return result;
     }
 };
