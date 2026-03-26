@@ -13,25 +13,22 @@ class Solution
 {
 public:
 
-    void preorder(TreeNode* root, int curr_sum, int target_sum, bool &found)
+    bool preorder(TreeNode* root, int curr_sum, int target_sum)
     {
         if(root == NULL)
         {
-            return;
+            return false;
         }
         curr_sum += root->val;
         if(curr_sum == target_sum && root->left==NULL && root->right==NULL)
         {
-            found = true;
+            return true;
         }
-        preorder(root->left, curr_sum, target_sum, found);
-        preorder(root->right, curr_sum, target_sum, found);
+        return preorder(root->left, curr_sum, target_sum) || preorder(root->right, curr_sum, target_sum);
     }
 
     bool hasPathSum(TreeNode* root, int targetSum) 
     {
-        bool found = false;
-        preorder(root, 0, targetSum, found);
-        return found;
+        return preorder(root, 0, targetSum);
     }
 };
