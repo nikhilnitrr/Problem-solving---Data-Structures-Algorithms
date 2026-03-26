@@ -2,80 +2,81 @@
 class Solution 
 {
 public:
+
+    bool is_horizontal_cut(ll total, vector<vector<int>>& grid, unordered_set<ll>&st)
+    {
+        ll n = grid.size();
+        ll m = grid[0].size();
+        ll top = 0;
+
+        for(ll i=0;i<n-1;i++)
+        {
+            for(ll j=0;j<m;j++)
+            {
+                st.insert(grid[i][j]);
+                top+=grid[i][j];
+            }
+            ll bottom = total - top;
+            ll diff = top - bottom;
+            if(diff == 0)
+            {
+                return true;
+            }
+        }
+        st.clear();
+        return false;
+    }
+
+    void transpose(vector<vector<int>>&grid)
+    {
+        ll n = grid.size();
+        ll m = grid[0].size();
+
+        vector<vector<int>>temp(m, vector<int>(n));
+
+        for(ll i=0;i<n;i++)
+        {
+            for(ll j=0;j<m;j++)
+            {
+                temp[j][i] = grid[i][j];
+            }
+        }
+
+        grid = temp;
+    }
+
     bool canPartitionGrid(vector<vector<int>>& grid) 
     {
-        int n = grid.size();
-        int m = grid[0].size();
+        ll n = grid.size();
+        ll m = grid[0].size();
+        unordered_set<ll>st;
 
-        vector<ll>row_sum(n, 0);
-        vector<ll>col_sum(m, 0);
-
-        for(int i=0;i<m;i++)
+        ll total = 0;
+        for(ll i=0;i<n;i++)
         {
-            ll sum = 0;
-            for(int j=0;j<n;j++)
+            for(ll j=0;j<m;j++)
             {
-                sum+=(ll)grid[j][i];
-            }
-            col_sum[i] = sum;
-        }
-
-        for(int i=0;i<n;i++)
-        {
-            ll sum = 0;
-            for(int j=0;j<m;j++)
-            {
-                sum+=(ll)grid[i][j];
-            }
-            row_sum[i] = sum;
-        }
-
-        vector<ll>row_prefix(n, 0);
-        vector<ll>row_suffix(n, 0);
-
-        vector<ll>col_prefix(m, 0);
-        vector<ll>col_suffix(m, 0);
-
-        row_prefix[0] = row_sum[0];
-        for(int i=1;i<n;i++)
-        {
-            row_prefix[i] = row_prefix[i-1]+row_sum[i];
-        }
-
-        row_suffix[n-1] = row_sum[n-1];
-        for(int i=n-2;i>=0;i--)
-        {
-            row_suffix[i] = row_suffix[i+1]+row_sum[i];
-        }
-
-        col_prefix[0] = col_sum[0];
-        for(int i=1;i<m;i++)
-        {
-            col_prefix[i] = col_prefix[i-1]+col_sum[i];
-        }
-
-        col_suffix[m-1] = col_sum[m-1];
-        for(int i=m-2;i>=0;i--)
-        {
-            col_suffix[i] = col_suffix[i+1]+col_sum[i];
-        }
-
-        // check for row
-        for(int i=0;i<n-1;i++)
-        {
-            if(row_prefix[i] == row_suffix[i+1])
-            {
-                return true;
+                total += grid[i][j];
             }
         }
-
-        // check for col
-        for(int i=0;i<m-1;i++)
+        if(is_horizontal_cut(total, grid, st))
         {
-            if(col_prefix[i] == col_suffix[i+1])
-            {
-                return true;
-            }
+            return true;
+        }
+        reverse(grid.begin(), grid.end());
+        if(is_horizontal_cut(total, grid, st))
+        {
+            return true;
+        }
+        transpose(grid);
+        if(is_horizontal_cut(total, grid, st))
+        {
+            return true;
+        }
+        reverse(grid.begin(), grid.end());
+        if(is_horizontal_cut(total, grid, st))
+        {
+            return true;
         }
         return false;
     }
