@@ -14,7 +14,7 @@ class Solution
 {
 public:
 
-    void solve(TreeNode* root, int target_sum, ll curr_sum, unordered_map<ll, int>um, int &cnt)
+    void solve(TreeNode* root, int target_sum, ll curr_sum, unordered_map<ll, int>&um, int &cnt)
     {
         if(root == NULL)
         {
@@ -32,6 +32,7 @@ public:
         um[curr_sum]++;
         solve(root->left, target_sum, curr_sum, um, cnt);
         solve(root->right, target_sum, curr_sum, um, cnt);
+        um[curr_sum]--;
     }
 
     int pathSum(TreeNode* root, int target_sum) 
