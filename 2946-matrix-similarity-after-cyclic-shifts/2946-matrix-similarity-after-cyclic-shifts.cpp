@@ -5,6 +5,7 @@ public:
     void shift_left(vector<int>&arr, int k)
     {
         int n = arr.size();
+        k=k%n;
         reverse(arr.begin(), arr.begin()+k);
         reverse(arr.begin()+k, arr.end());
         reverse(arr.begin(), arr.end());
@@ -12,6 +13,7 @@ public:
     void shift_right(vector<int>&arr, int k)
     {
         int n = arr.size();
+        k=k%n;
         reverse(arr.begin(), arr.end());
         reverse(arr.begin(), arr.begin()+k);
         reverse(arr.begin()+k, arr.end());
@@ -21,16 +23,15 @@ public:
     {
         int n = arr.size();
         int m = arr[0].size();
-        k = k%n;
         vector<vector<int>>temp = arr;
 
         for(int i=0;i<n;i++)
         {
-            if(i%2 == 0 && k!=n)
+            if(i%2 == 0)
             {
                 shift_left(temp[i], k);
             }
-            else if(i%2 !=0 && k!=n)
+            else if(i%2 !=0)
             {
                 shift_right(temp[i], k);
             }
