@@ -6,6 +6,7 @@ public:
     {
         int n = arr.size();
         k=k%n;
+        // note : the second argument i.e arr.begin()+k only considers elements from starting till kth (excluding kth)
         reverse(arr.begin(), arr.begin()+k);
         reverse(arr.begin()+k, arr.end());
         reverse(arr.begin(), arr.end());
