@@ -2,30 +2,28 @@ class Solution
 {
 public:
 
-    void get_distance(string src, string dst, unordered_map<string, vector<pair<string, double>>>&adj, unordered_set<string>&visited, double &cost, double temp)
+    bool get_distance(string src, string dst, unordered_map<string, vector<pair<string, double>>>&adj, unordered_set<string>&visited, double &cost)
     {
         if(adj.find(src)==adj.end() || adj.find(dst)==adj.end())
         {
-            cost = -1.0;
-            return;
+            return false;
         }
         if(src == dst)
         {
-            cost = temp;
-            return;
+            return true;
         }
+        visited.insert(src);
         for(auto x : adj[src])
         {
             string u = x.first;
-            if(visited.find(u)==visited.end())
+            double c = x.second;
+            if(visited.find(u)==visited.end() && get_distance(u, dst, adj, visited, cost))
             {
-                double c = x.second;
-                visited.insert(u);
-                get_distance(u, dst, adj, visited, cost, temp*c);
-                visited.erase(u);
+                cost = cost*c;
+                return true;
             }
         }
-        
+        return false;
     }
 
     vector<double> calcEquation(vector<vector<string>>& equations, vector<double>& values, vector<vector<string>>& queries) 
@@ -46,9 +44,15 @@ public:
             string src = queries[i][0];
             string dst = queries[i][1];
             unordered_set<string>visited;
-            double cost = -1.0;
-            get_distance(src, dst, adj, visited, cost, 1.0);
-            result.push_back(cost);
+            double cost = 1;
+            if(get_distance(src, dst, adj, visited, cost))
+            {
+                result.push_back(cost);
+            }
+            else
+            {
+                result.push_back(-1.0);
+            }
         }
         return result;
     }
