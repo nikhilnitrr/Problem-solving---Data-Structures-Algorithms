@@ -1,33 +1,36 @@
 class Solution 
 {
 public:
-
-    bool is_valid_window(int j, int i, int k, int max_freq)
+    bool is_valid_window(int end, int start, int max_freq, int k)
     {
-        int window_size = j-i+1;
-        if(window_size - max_freq <= k)
+        int window_size = end - start + 1;
+        if(window_size - max_freq <=k)
         {
             return true;
         }
         return false;
     }
 
-    int characterReplacement(string s, int k) 
+    int characterReplacement(string str, int k) 
     {
-        int result = INT_MIN;
-        int  i = 0;
-        unordered_map<char, int>um;
+        int i = 0;
+        int n = str.length();
         int max_freq = 0;
-        for(int j=0;j<s.length();j++)
+        int result = 0;
+        unordered_map<char, int>um;
+        for(int j=0;j<n;j++)
         {
-            um[s[j]]++;
-            max_freq = max(max_freq, um[s[j]]);
-            while(!is_valid_window(j, i, k, max_freq))
+            um[str[j]]++;
+            max_freq = max(max_freq, um[str[j]]);
+            if(is_valid_window(j, i, max_freq, k))
             {
-                um[s[i]]--;
+                result = max(result, (j-i+1));
+            }
+            else
+            {
+                um[str[i]]--;
                 i++;
             }
-            result = max(result, (j-i+1));
         }
         return result;
     }
