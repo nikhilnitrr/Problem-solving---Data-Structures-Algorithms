@@ -1,32 +1,32 @@
 class ZeroEvenOdd 
 {
     private int n;
-    Semaphore zs;
-    Semaphore es;
-    Semaphore os;
+    Semaphore e;
+    Semaphore o;
+    Semaphore z;
     
     public ZeroEvenOdd(int n) 
     {
         this.n = n;
-        this.os = new Semaphore(0);
-        this.es = new Semaphore(0);
-        this.zs = new Semaphore(1);
+        this.e = new Semaphore(0);
+        this.z = new Semaphore(1);
+        this.o = new Semaphore(0);
     }
 
     // printNumber.accept(x) outputs "x", where x is an integer.
     public void zero(IntConsumer printNumber) throws InterruptedException 
     {
-        for(int i=1;i<=n;i++)
+        for(int i=0;i<n;i++)
         {
-            this.zs.acquire();
+            this.z.acquire();
             printNumber.accept(0);
             if(i%2==0)
             {
-                this.es.release();
+                this.o.release();
             }
             else
             {
-                this.os.release();
+                this.e.release();
             }
         }
     }
@@ -35,25 +35,19 @@ class ZeroEvenOdd
     {
         for(int i=2;i<=n;i+=2)
         {
-            this.es.acquire();
+            this.e.acquire();
             printNumber.accept(i);
-            if(i%2 == 0)
-            {
-                this.zs.release();
-            }
-        }
+            this.z.release();
+        }   
     }
 
     public void odd(IntConsumer printNumber) throws InterruptedException 
     {
         for(int i=1;i<=n;i+=2)
         {
-            this.os.acquire();
+            this.o.acquire();
             printNumber.accept(i);
-            if(i%2!=0)
-            {
-                this.zs.release();
-            }
+            this.z.release();
         }
     }
 }
