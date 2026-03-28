@@ -4,26 +4,25 @@ public:
     int trap(vector<int>& nums) 
     {
         int n = nums.size();
-        vector<int>left(n);
-        vector<int>right(n);
-
-        left[0] = nums[0];
-        right[n-1] = nums[n-1];
-
-        for(int i=1;i<n;i++)
-        {
-            left[i] = max(left[i-1] , nums[i]);
-        }
-
-        for(int i=n-2;i>=0;i--)
-        {
-            right[i] = max(right[i+1] , nums[i]);
-        }
-
+        int i = 0;
+        int j = n-1;
+        int left_max = 0;
+        int right_max = 0;
         int result = 0;
-        for(int i=0;i<n;i++)
+        while(i<j)
         {
-            result+= min(left[i], right[i]) - nums[i];
+            if(nums[i] < nums[j])
+            {
+                left_max = max(left_max, nums[i]);
+                result+= (left_max - nums[i]);
+                i++;
+            }
+            else
+            {
+                right_max = max(right_max, nums[j]);
+                result+=(right_max - nums[j]);
+                j--;
+            }
         }
         return result;
     }
