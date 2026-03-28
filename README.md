@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0097-interleaving-string/) | Medium |
 | [0399-evaluate-division](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
