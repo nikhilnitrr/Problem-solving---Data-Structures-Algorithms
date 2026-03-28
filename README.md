@@ -213,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1116-print-zero-even-odd](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1116-print-zero-even-odd/) | Medium |
 <!---LeetCode Topics End-->
