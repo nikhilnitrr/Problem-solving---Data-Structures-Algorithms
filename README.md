@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0010-regular-expression-matching/) | Hard |
 | [0050-powx-n](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,4 +191,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0399-evaluate-division/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
