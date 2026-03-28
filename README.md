@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0076-minimum-window-substring/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 ## Dynamic Programming
@@ -222,4 +224,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1116-print-zero-even-odd](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1116-print-zero-even-odd/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
