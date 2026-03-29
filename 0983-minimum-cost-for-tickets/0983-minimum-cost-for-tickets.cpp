@@ -2,19 +2,15 @@ class Solution
 {
 public:
 
-    int solve(int i, vector<int>&days, int n, vector<int>&costs, vector<int>&dp)
+    void solve(int i, vector<int>&days, int n, vector<int>&costs, int curr_cost, int &min_cost)
     {
-        if(i >= n)
+        if(i == n)
         {
-            return 0;
+            min_cost = min(min_cost, curr_cost);
+            return;
         }
 
-        if(dp[i] !=-1)
-        {
-            return dp[i];
-        }
-
-        int cost1 = costs[0] + solve(i+1, days, n, costs, dp);
+        solve(i+1, days, n, costs, curr_cost+costs[0], min_cost);
 
         int j = i;
         int k = i;
@@ -29,18 +25,16 @@ public:
             k++;
         }
 
-        int cost2 = costs[1] + solve(j, days, n, costs, dp);
+        solve(j, days, n, costs, curr_cost+costs[1], min_cost);
 
-        int cost3 = costs[2] + solve(k, days, n, costs, dp);
-
-        return dp[i] = min(cost1, min(cost2, cost3));
-
+        solve(k, days, n, costs, curr_cost+costs[2], min_cost);
     }
 
     int mincostTickets(vector<int>& days, vector<int>& costs) 
     {
         int n = days.size();
-        vector<int>dp(n+1, -1);
-        return solve(0, days, n, costs, dp);
+        int min_cost = INT_MAX;
+        solve(0, days, n, costs, 0, min_cost);
+        return min_cost;
     }
 };
