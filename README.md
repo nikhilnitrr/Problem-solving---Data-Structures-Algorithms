@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
+| [0983-minimum-cost-for-tickets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0097-interleaving-string/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2646-minimize-the-total-price-of-the-trips/) | Hard |
 ## Matrix
