@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
