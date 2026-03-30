@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
