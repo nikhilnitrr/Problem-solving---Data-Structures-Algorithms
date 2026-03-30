@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0050-powx-n/) | Medium |
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0338-counting-bits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
