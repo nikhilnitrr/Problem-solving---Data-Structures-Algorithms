@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0190-reverse-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0191-number-of-1-bits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
