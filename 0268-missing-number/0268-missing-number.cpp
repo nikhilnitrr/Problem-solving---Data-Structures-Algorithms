@@ -1,35 +1,38 @@
 class Solution 
 {
 public:
-    int missingNumber(vector<int>& arr) 
+    int missingNumber(vector<int>& nums) 
     {
-        int n = arr.size();
+        int n = nums.size();
         int i = 0;
         while(i<n)
         {
-            int correct = arr[i];
-            if(correct == n)
+            if(nums[i] == n)
             {
                 i++;
-            }
-            else if(arr[i]!=arr[correct])
-            {
-                swap(arr[i], arr[correct]);
             }
             else
             {
-                i++;
+                int correct_index = nums[i];
+                if(nums[i] != nums[correct_index])
+                {
+                    swap(nums[i], nums[correct_index]);
+                }
+                else
+                {
+                    i++;
+                }
             }
         }
         int ans = -1;
         for(int i=0;i<n;i++)
         {
-            if(i!=arr[i])
+            if(i!=nums[i])
             {
                 ans = i;
                 break;
             }
         }
-        return ans==-1 ? n : ans;
+        return ans == -1 ? n : ans;
     }
 };
