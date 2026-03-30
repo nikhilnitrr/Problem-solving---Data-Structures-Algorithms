@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0399-evaluate-division](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0399-evaluate-division/) | Medium |
 ## Backtracking
