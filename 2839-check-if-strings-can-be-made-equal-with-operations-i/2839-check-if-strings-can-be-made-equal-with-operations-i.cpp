@@ -4,10 +4,6 @@ public:
 
     bool solve(int index, string s1, string s2)
     {
-        if(s1 == s2)
-        {
-            return true;
-        }
         swap(s1[index%4], s1[(index+2)%4]);
         if(s1 == s2)
         {
