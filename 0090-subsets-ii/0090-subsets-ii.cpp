@@ -6,7 +6,7 @@ public:
         result.push_back(path);
         for(int i=pos;i<n;i++)
         {
-            if(i > pos && nums[i] != nums[i-1]) continue;
+            if(i > pos && nums[i] == nums[i-1]) continue;
             else
             {
                 path.push_back(nums[i]);
