@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0077-combinations/) | Medium |
 | [0113-path-sum-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
