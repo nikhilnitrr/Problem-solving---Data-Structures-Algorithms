@@ -4,8 +4,7 @@ public:
 
     void solve(string &str, int k, int n)
     {
-        int cnt = 1;
-        while(cnt < k)
+        while(k > 1)
         {
             int indx1 = -1;
             for(int i=n-2;i>=0;i--)
@@ -19,7 +18,7 @@ public:
             if(indx1 == -1)
             {
                 reverse(str.begin(), str.end());
-                cnt++;
+                k--;
             }
             else
             {
@@ -34,7 +33,7 @@ public:
                 }
                 swap(str[indx1], str[indx2]);
                 reverse(str.begin()+indx1+1, str.end());
-                cnt++;
+                k--;
             }
         }
     }
