@@ -42,25 +42,22 @@ public:
         return true;
     }
 
-    void solve(int row, int n, vector<vector<string>>&result, vector<string>&path, int cnt)
+    void solve(int row, int n, vector<vector<string>>&result, vector<string>&path)
     {
-        if(row == n && cnt == n)
+        if(row == n)
         {
             result.push_back(path);
             return;
         }
-        for(int i=row;i<n;i++)
-        {
-            for(int j=0;j<n;j++)
+            for(int col=0;col<n;col++)
             {
-                if(is_valid(path, i, j))
+                if(is_valid(path, row, col))
                 {
-                    path[i][j]='Q';
-                    solve(i+1, n, result, path, cnt+1);
-                    path[i][j]='.';
+                    path[row][col]='Q';
+                    solve(row+1, n, result, path);
+                    path[row][col]='.';
                 }
             }
-        }
     }
 
     vector<vector<string>> solveNQueens(int n) 
@@ -76,8 +73,7 @@ public:
             }
             path.push_back(temp);
         }
-        int cnt = 0;
-        solve(0, n, result, path, cnt);
+        solve(0, n, result, path);
         return result;
     }
 };
