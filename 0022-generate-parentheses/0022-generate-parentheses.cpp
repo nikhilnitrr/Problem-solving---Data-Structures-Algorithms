@@ -1,37 +1,17 @@
 class Solution 
 {
 public:
-
-    bool is_valid(string &str)
+    void solve(string &path, vector<string>&result, int &n, string &nums, int open_cnt)
     {
-        int n = str.length();
-        int open_cnt = 0;
-        for(int i=0;i<n;i++)
+        if(open_cnt < 0)
         {
-            if(str[i]=='(')
-            {
-                open_cnt++;
-            }
-            if(str[i]==')')
-            {
-                open_cnt--;
-            }
-
-            if(open_cnt < 0)
-            {
-                return false;
-            }
+            return;
         }
-        return open_cnt == 0;
-    }
-
-    void solve(string &path, vector<string>&result, int &n, string &nums)
-    {
         if(path.length() > 2*n)
         {
             return;
         }
-        if(path.length() == 2*n && is_valid(path))
+        if(path.length() == 2*n && open_cnt == 0)
         {
             result.push_back(path);
             return;
@@ -39,7 +19,14 @@ public:
         for(int i=0;i<nums.size();i++)
         {
             path.push_back(nums[i]);
-            solve(path, result, n, nums);
+            if(nums[i] == '(')
+            {
+                solve(path, result, n, nums, open_cnt+1);
+            }
+            else
+            {
+                solve(path, result, n, nums, open_cnt-1);
+            }
             path.pop_back();
         }
     }
@@ -49,7 +36,8 @@ public:
         vector<string>result;
         string path;
         string nums="()";
-        solve(path, result, n, nums);
+        int open_cnt = 0;
+        solve(path, result, n, nums, open_cnt);
         return result;
     }
 };
