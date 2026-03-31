@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0046-permutations/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0039-combination-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0078-subsets/) | Medium |
