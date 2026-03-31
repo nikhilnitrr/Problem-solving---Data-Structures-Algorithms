@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0136-single-number/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0191-number-of-1-bits/) | Easy |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0077-combinations](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
