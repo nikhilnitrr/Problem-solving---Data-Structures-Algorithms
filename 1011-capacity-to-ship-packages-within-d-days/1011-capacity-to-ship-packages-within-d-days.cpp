@@ -15,7 +15,7 @@ public:
             else
             {
                 cnt++;
-                sum=weights[i];
+                sum=weights[i]; // is weight to agle din bhejunga
                 if(cnt > days)
                 {
                     return false;
