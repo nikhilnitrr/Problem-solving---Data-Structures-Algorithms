@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-snakes-and-ladders](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
