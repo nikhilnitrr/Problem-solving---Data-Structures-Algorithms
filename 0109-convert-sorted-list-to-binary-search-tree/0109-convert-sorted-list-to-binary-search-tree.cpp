@@ -42,20 +42,10 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-        TreeNode* root = NULL;
-        if(slow)
-        {
-            root = new TreeNode(slow->val);
-        }
-        ListNode* temp = slow ? slow->next : NULL;
-        if(slow)
-        {
-            slow->next = NULL;
-        }
-        if(prev)
-        {
-            prev->next = NULL;
-        }
+        prev->next = NULL;
+        TreeNode* root = new TreeNode(slow->val);
+        ListNode* temp = slow->next;
+        slow->next = NULL;
         root->left = sortedListToBST(head);
         root->right = sortedListToBST(temp);
         return root;
