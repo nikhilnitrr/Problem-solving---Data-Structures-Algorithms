@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0075-sort-colors/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0097-interleaving-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0097-interleaving-string/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0337-house-robber-iii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0337-house-robber-iii/) | Medium |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0079-word-search/) | Medium |
