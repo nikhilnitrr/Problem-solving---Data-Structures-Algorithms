@@ -2,32 +2,31 @@ class Solution
 {
 public:
 
-    void solve(int pos, vector<int>&nums, int n, vector<vector<int>>&result, vector<int>&path, int curr_sum, int &sum)
+    void solve(int pos, vector<int>&candidates, int target, vector<vector<int>>&result, vector<int>&path, int curr_sum)
     {
-        if(curr_sum > sum)
+        if(curr_sum > target)
         {
             return;
         }
-        if(curr_sum == sum)
+        if(curr_sum == target)
         {
             result.push_back(path);
             return;
         }
-        for(int i=pos;i<n;i++)
+        for(int i=pos;i<candidates.size();i++)
         {
-            path.push_back(nums[i]);
-            solve(i, nums, n, result, path, curr_sum+nums[i], sum);
+            if(i > pos && candidates[i] == candidates[i-1]) continue;
+            path.push_back(candidates[i]);
+            solve(i, candidates, target, result, path, curr_sum+candidates[i]);
             path.pop_back();
         }
     }
 
-    vector<vector<int>> combinationSum(vector<int>& nums, int sum) 
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) 
     {
-        int n = nums.size();
         vector<vector<int>>result;
         vector<int>path;
-        int curr_sum = 0;
-        solve(0, nums, n, result, path, curr_sum, sum);
+        solve(0, candidates, target, result, path, 0);
         return result;
     }
 };
