@@ -6,22 +6,24 @@ public:
         int n = nums.size();
         int low = 0;
         int high = n-1;
-        while(low<high)
+
+        int i = 0;
+        while(i<=high)
         {
-            int mid = low+(high-low)/2;
-            if(nums[mid]==0)
+            if(nums[i]==0)
             {
-                swap(nums[mid], nums[low]);
+                swap(nums[i], nums[low]);
                 low++;
+                i++;
             }
-            else if(nums[mid]==1)
+            else if(nums[i]==2)
             {
-                mid++;
+                swap(nums[i], nums[high]);
+                high--;
             }
             else
             {
-                swap(nums[mid], nums[high]);
-                high--;
+                i++;
             }
         }
     }
