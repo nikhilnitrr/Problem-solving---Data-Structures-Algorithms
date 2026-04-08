@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0053-maximum-subarray/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0190-reverse-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0191-number-of-1-bits/) | Easy |
 ## Hash Table
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0146-lru-cache/) | Medium |
 ## Stack
@@ -359,4 +363,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0146-lru-cache/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
