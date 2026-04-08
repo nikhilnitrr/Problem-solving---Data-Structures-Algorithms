@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0090-subsets-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0136-single-number/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0053-maximum-subarray/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0190-reverse-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0191-number-of-1-bits/) | Easy |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0112-path-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0113-path-sum-ii/) | Medium |
@@ -366,5 +370,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
