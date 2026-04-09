@@ -4,8 +4,7 @@ public:
     int unhappyFriends(int n, vector<vector<int>>& preferences, vector<vector<int>>& pairs) 
     {
         vector<vector<int>>rank(n, vector<int>(n));
-
-        for(int i=0;i<n;i++)
+        for(int i=0;i<preferences.size();i++)
         {
             for(int j=0;j<preferences[i].size();j++)
             {
@@ -22,7 +21,6 @@ public:
             partner[x]=y;
             partner[y]=x;
         }
-        
 
         int result = 0;
         for(int x=0;x<n;x++)
