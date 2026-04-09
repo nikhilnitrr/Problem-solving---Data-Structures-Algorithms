@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1583-count-unhappy-friends](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1268-search-suggestions-system](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1268-search-suggestions-system/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0045-jump-game-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
+| [1710-maximum-units-on-a-truck](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
