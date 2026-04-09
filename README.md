@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
+| [0791-custom-sort-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0791-custom-sort-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
+| [0791-custom-sort-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0791-custom-sort-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1268-search-suggestions-system](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1268-search-suggestions-system/) | Medium |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
+| [0791-custom-sort-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0791-custom-sort-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1268-search-suggestions-system](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1268-search-suggestions-system/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
