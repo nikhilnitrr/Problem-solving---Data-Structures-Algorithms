@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0337-house-robber-iii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0338-counting-bits/) | Easy |
+| [0392-is-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0392-is-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0097-interleaving-string/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0392-is-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0399-evaluate-division](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
