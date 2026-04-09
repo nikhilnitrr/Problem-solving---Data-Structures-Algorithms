@@ -6,18 +6,25 @@ public:
         int n = matrix.size();
         int m = matrix[0].size();
 
-        vector<int>prev = matrix[0];
-        for(int i=1;i<n;i++)
+        unordered_map<int, int>diagonal;
+
+        for(int i=0;i<n;i++)
         {
-            vector<int>curr = matrix[i];
-            for(int j=1;j<m;j++)
+            for(int j=0;j<m;j++)
             {
-                if(curr[j]!=prev[j-1])
+                int key = i-j;
+                if(diagonal.find(key)==diagonal.end())
                 {
-                    return false;
+                    diagonal[key]=matrix[i][j];
+                }
+                else
+                {
+                    if(diagonal[key]!=matrix[i][j])
+                    {
+                        return false;
+                    }
                 }
             }
-            prev=curr;
         }
         return true;
     }
