@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0045-jump-game-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Doubly-Linked List
