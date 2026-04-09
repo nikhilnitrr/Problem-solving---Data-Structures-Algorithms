@@ -47,7 +47,10 @@ public:
         for(int i=0;i<searchWord.length();i++)
         {
             int index = searchWord[i]-'a';
-            curr = curr->child[index];
+            if(curr!=NULL)
+            {
+                curr = curr->child[index];
+            }
             if(curr!=NULL)
             {
                 result.push_back(curr->suggestions);
