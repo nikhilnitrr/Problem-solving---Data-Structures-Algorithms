@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-minimum-cost-for-tickets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1583-count-unhappy-friends](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1583-count-unhappy-friends/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
+| [1583-count-unhappy-friends](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1583-count-unhappy-friends/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
