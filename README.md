@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0146-lru-cache/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
 ## Counting
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -361,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1268-search-suggestions-system](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1268-search-suggestions-system/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
