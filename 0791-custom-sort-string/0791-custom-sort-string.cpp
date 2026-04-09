@@ -20,20 +20,17 @@ public:
                     result.push_back(order[i]);
                     cnt--;
                 }
+                um1.erase(order[i]);
             }
         }
 
-        unordered_set<char>st;
-        for(int i=0;i<order.length();i++)
+        for(auto x : um1)
         {
-            st.insert(order[i]);
-        }
-
-        for(int i=0;i<str.length();i++)
-        {
-            if(st.find(str[i])==st.end())
+            int cnt = x.second;
+            while(cnt)
             {
-                result.push_back(str[i]);
+                result.push_back(x.first);
+                cnt--;
             }
         }
 
