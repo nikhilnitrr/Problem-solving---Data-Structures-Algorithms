@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1268-search-suggestions-system](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1268-search-suggestions-system/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0791-custom-sort-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0791-custom-sort-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -199,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0392-is-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1268-search-suggestions-system](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1268-search-suggestions-system/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
