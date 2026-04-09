@@ -1,12 +1,10 @@
-struct TrieNode
-{
-    vector<string>suggestions; // top 3 suggestions
+struct TrieNode{
+    vector<string>suggestions; // keep top-3 strings
     TrieNode* child[26];
-
     TrieNode(){
         for(int i=0;i<26;i++)
         {
-            child[i] = NULL;
+            child[i]=NULL;
         }
     }
 };
@@ -41,7 +39,6 @@ public:
         {
             insert(product, root);
         }
-
         vector<vector<string>>result;
         TrieNode* curr = root;
         for(int i=0;i<searchWord.length();i++)
@@ -60,7 +57,6 @@ public:
                 result.push_back({});
             }
         }
-
         return result;
     }
 };
