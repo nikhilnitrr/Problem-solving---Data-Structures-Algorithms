@@ -33,7 +33,6 @@ public:
             nums[n-1]=1;
             k--;
         }
-
         for(int i=1;i<n-1;i++)
         {
             if(nums[i]==0 && nums[i-1]==0 && nums[i+1]==0)
@@ -42,7 +41,6 @@ public:
                 k--;
             }
         }
-        
         return k<=0;
     }
 };
