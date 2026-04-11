@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2013-detect-squares](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2013-detect-squares/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2646-minimize-the-total-price-of-the-trips](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2646-minimize-the-total-price-of-the-trips/) | Hard |
 | [2906-construct-product-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0054-spiral-matrix/) | Medium |
 | [1583-count-unhappy-friends](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1583-count-unhappy-friends/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -359,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0143-reorder-list](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0146-lru-cache/) | Medium |
+| [2326-spiral-matrix-iv](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
