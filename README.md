@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0645-set-mismatch/) | Easy |
+| [0763-partition-labels](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0763-partition-labels/) | Medium |
 | [0791-custom-sort-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0791-custom-sort-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0763-partition-labels](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0763-partition-labels/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0763-partition-labels/) | Medium |
 | [0791-custom-sort-string](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0791-custom-sort-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1268-search-suggestions-system](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1268-search-suggestions-system/) | Medium |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0045-jump-game-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0605-can-place-flowers/) | Easy |
+| [0763-partition-labels](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/0846-hand-of-straights/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/nikhilnitrr/Problem-solving---Data-Structures-Algorithms/tree/main/2573-find-the-string-with-lcp/) | Hard |
